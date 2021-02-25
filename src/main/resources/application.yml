@@ -1,0 +1,4 @@
+#local本地开发使用 staff测试使用  gray灰度环境使用 prod开发环境使用
+spring: 
+ profiles: 
+  active: local
